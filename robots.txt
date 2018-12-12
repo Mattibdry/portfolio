@@ -1,0 +1,6 @@
+# www.robotstxt.org
+
+Sitemap : http://beaudrydesign.com/sitemap.xmlns
+
+User-Agent: *
+Disallow:
